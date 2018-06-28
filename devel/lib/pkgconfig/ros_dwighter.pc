@@ -1,0 +1,8 @@
+prefix=/home/drhysjones/git/catkin_ws/devel
+
+Name: ros_dwighter
+Description: Description of ros_dwighter
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/drhysjones/git/catkin_ws/devel/lib 
+Requires: 
